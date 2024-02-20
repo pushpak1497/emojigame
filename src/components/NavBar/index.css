@@ -1,0 +1,20 @@
+/* Write your code here. */
+.navbar {
+  background-color: #9796f0;
+  display: flex;
+  padding: 25px;
+  justify-content: space-between;
+}
+.navbar-items-container {
+  display: flex;
+}
+.nav-item {
+  color: #fff;
+  margin: 10px;
+}
+.text {
+  color: #fff;
+}
+.logo-container {
+  display: flex;
+}

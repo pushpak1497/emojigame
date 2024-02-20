@@ -1,0 +1,21 @@
+/* Write your code here. */
+.emojis-container {
+  background-image: linear-gradient(to top, #9796f0, #6a59ff);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+
+  flex-wrap: wrap;
+  width: 80%;
+}
+.page-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

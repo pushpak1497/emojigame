@@ -1,0 +1,9 @@
+/* Write your code here. */
+.emoji-button {
+  background-color: #9796f0;
+  border: 1px solid #ffffff30;
+  margin: 20px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  padding: 20px;
+}

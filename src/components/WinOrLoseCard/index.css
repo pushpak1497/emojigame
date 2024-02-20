@@ -1,0 +1,10 @@
+/* Write your code here. */
+.result-container {
+  background-color: #9796f0;
+  border: 1px solid #ffffff30;
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  padding: 20px;
+}
